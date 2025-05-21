@@ -1,0 +1,3 @@
+OOUP - Oblikovni obrasci u programiranju
+
+Laboratorijske vježbe iz predmeta "Oblikovni obrasci u programiranju". Unutar foldera pojedinog labosa nalazi se PDF dokument s zadatkom.
