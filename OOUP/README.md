@@ -5,3 +5,4 @@ Inside of every folder is PDF with the instructions.
 
 To do:
 - add third exercise
+- add english version of tasks
