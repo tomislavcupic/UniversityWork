@@ -1,6 +1,2 @@
 Here are my laboratory exercises from class "Parallel programming" or in croatian "Paralelno programiranje" (PARPRO)
-
-TODO:
-  - add third lab
-  - add first lab?
-  
+There are three tasks, each in its folder, and inside every folder exists a pdf version of the instructions for the task.
