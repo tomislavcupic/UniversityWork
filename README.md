@@ -1,7 +1,8 @@
 ## Here are the projects and laboratory excercises I have done in college.
 ---
 CLASSES:
-  * APR - "Analiza i projektiranje računalom", english: "Computer Aided Analysis and Design"  
+  * APR - "Analiza i projektiranje računalom", english: "Computer Aided Analysis and Design"
+  * DOAS - "Digitalna obrada i analiza slike", english: "Digital Image Processing and Analysis"
   * OOUP - "Oblikovni obrasci u programiranju", english: "Design Patterns"
   * OBRINF - "Obrada informacija", english: "Information Processing"
   * PARPRO - "Paralelno programiranje", english: "Parallel Programming"
