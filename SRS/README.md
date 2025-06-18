@@ -1,0 +1,2 @@
+These are the laboratory exercises I have done in SRS - "Sigurnost računalnih sustava", or in english: "Computer Security".
+Third laboratory exercise was in imunes virtual machine so I couldn't put it here.
