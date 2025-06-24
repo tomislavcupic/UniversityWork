@@ -1,0 +1,1 @@
+Here are my laboratory exercises from class "Introduction to Artificial Intelligence" or in croatian "Uvod u umjetnu inteligenciju" (UUUI) There are three tasks, each in its folder, and inside every folder exists a pdf version of the instructions for the task in croatian.

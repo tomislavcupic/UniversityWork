@@ -4,5 +4,5 @@ In this folder are the laboratory exercises of class "Design Patterns".
 Inside of every folder is PDF with the instructions.
 
 To do:
-- add third exercise
+- add third exercise - done
 - add english version of tasks

@@ -9,3 +9,4 @@ CLASSES:
   * PIK - "Paralelizam i konkurentnost", english: "Parallelism and Concurrency"
   * SKR_JEZ - "skriptni jezici", english: "Scripting Languages"
   * SRS - "Sigurnost računalnih sustava", english: "Computer Security"
+  * UUUI - "Uvod u umjetnu inteligenciju", english: "Introduction to Artificial Intelligence"
