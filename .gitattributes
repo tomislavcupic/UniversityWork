@@ -1,0 +1,14 @@
+# Exclude Jupyter Notebooks from GitHub language stats
+*.ipynb linguist-vendored
+
+* text=auto
+
+*.py  text eol=lf
+*.c   text eol=lf
+*.cpp text eol=lf
+*.h   text eol=lf
+*.md  text eol=lf
+
+*.pdf binary
+
+README.md linguist-documentation
