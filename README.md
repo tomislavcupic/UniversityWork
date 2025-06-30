@@ -11,3 +11,4 @@ CLASSES:
   * SRS - "Sigurnost računalnih sustava", english: "Computer Security"
   * UUUI - "Uvod u umjetnu inteligenciju", english: "Introduction to Artificial Intelligence"
   * FVPP - "Formalna verifikacija programske potpore", english: "Formal Software Verification"
+  * OPEIST - "Operacijska istraživanja", english: "Operational research"

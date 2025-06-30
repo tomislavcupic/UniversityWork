@@ -1,0 +1,2 @@
+Here is the laboratory exercise from the class "Operational research", or as we call it "Operacijska istraživanja".
+The exercise text is in the instructions.docx file, together with the results. The graf.png image is the matplotlib of the solution of the task. 
