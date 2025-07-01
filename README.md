@@ -1,14 +1,14 @@
-## Here are the projects and laboratory excercises I have done in college.
+## 🧠 Here are the projects and laboratory excercises I have done in college.
 ---
-CLASSES:
-  * APR - "Analiza i projektiranje računalom", english: "Computer Aided Analysis and Design"
-  * DOAS - "Digitalna obrada i analiza slike", english: "Digital Image Processing and Analysis"
-  * OOUP - "Oblikovni obrasci u programiranju", english: "Design Patterns"
-  * OBRINF - "Obrada informacija", english: "Information Processing"
-  * PARPRO - "Paralelno programiranje", english: "Parallel Programming"
-  * PIK - "Paralelizam i konkurentnost", english: "Parallelism and Concurrency"
-  * SKR_JEZ - "skriptni jezici", english: "Scripting Languages"
-  * SRS - "Sigurnost računalnih sustava", english: "Computer Security"
-  * UUUI - "Uvod u umjetnu inteligenciju", english: "Introduction to Artificial Intelligence"
-  * FVPP - "Formalna verifikacija programske potpore", english: "Formal Software Verification"
-  * OPEIST - "Operacijska istraživanja", english: "Operational research"
+## 📚 CLASSES:
+  > * **APR** - "Analiza i projektiranje računalom", english: "Computer Aided Analysis and Design"
+  > * **DOAS** - "Digitalna obrada i analiza slike", english: "Digital Image Processing and Analysis"
+ >  * **FVPP** - "Formalna verifikacija programske potpore", english: "Formal Software Verification"
+  > * **OBRINF** - "Obrada informacija", english: "Information Processing"
+  > * **OOUP** - "Oblikovni obrasci u programiranju", english: "Design Patterns"
+ >  * **OPEIST** - "Operacijska istraživanja", english: "Operational research"
+  > * **PARPRO** - "Paralelno programiranje", english: "Parallel Programming"
+  > * **PIK** - "Paralelizam i konkurentnost", english: "Parallelism and Concurrency"
+ >  * **SKR_JEZ** - "skriptni jezici", english: "Scripting Languages"
+ >  * **SRS** - "Sigurnost računalnih sustava", english: "Computer Security"
+  >  * **UUUI** - "Uvod u umjetnu inteligenciju", english: "Introduction to Artificial Intelligence"
