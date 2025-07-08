@@ -1,0 +1,1 @@
+This is a project that I made for my "seminar" class, where we had to do a little project and make a presentation on it. Both the project and the presentation is in this folder. The presentation is currently avaiable only in croatian, but I will change that.
