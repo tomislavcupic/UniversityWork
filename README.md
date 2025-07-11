@@ -5,6 +5,7 @@
   > * **DOAS** - "Digitalna obrada i analiza slike", english: "Digital Image Processing and Analysis"
  >  * **FVPP** - "Formalna verifikacija programske potpore", english: "Formal Software Verification"
   > * **OBRINF** - "Obrada informacija", english: "Information Processing"
+  > * **OOMA*** - "Odabrane optimizacijske metode i algoritmi", english: "Selected Optimization Methods and Algorithms"
   > * **OOUP** - "Oblikovni obrasci u programiranju", english: "Design Patterns"
  >  * **OPEIST** - "Operacijska istraživanja", english: "Operational research"
   > * **PARPRO** - "Paralelno programiranje", english: "Parallel Programming"

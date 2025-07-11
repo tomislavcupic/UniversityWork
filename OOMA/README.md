@@ -1,0 +1,1 @@
+Project I did in Selected Optimization Methods and Algorithms, or "OOMA" shortened. You can start it by running the project.py file.
