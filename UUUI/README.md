@@ -3,7 +3,7 @@
 ##### Here are my laboratory exercises from class "Introduction to Artificial Intelligence" or in croatian "Uvod u umjetnu inteligenciju" (UUUI) There are three tasks, each in its folder, and inside every folder exists a pdf version of the instructions for the task in croatian. Below is each exercise in details.
 ---
 
-## 🧭  Exercise 1: Search Algorithms (search_algorithms.py)
+##  Exercise 1: Search Algorithms (search_algorithms.py)
 
 ### This script implements three classic graph search algorithms:
 
@@ -32,7 +32,7 @@ A-STAR heuristics.txt:
 [PATH]: A => B => C => G`
 ```
 
-## 🧠 Exercise 2: Propositional Logic Resolution (resolution.py)
+## Exercise 2: Propositional Logic Resolution (resolution.py)
 
 This script uses the resolution method to determine if a given conclusion follows logically from a set of propositional clauses.
 
@@ -64,7 +64,7 @@ NIL
 [CONCLUSION]: p is true
 ```
 
-## 🌳 Exercise 3: Decision Tree with ID3 Algorithm (decision_tree.py)
+## Exercise 3: Decision Tree with ID3 Algorithm (decision_tree.py)
 
 This script implements the ID3 algorithm to train a decision tree classifier from labeled data and evaluate its performance.
 

@@ -1,15 +1,15 @@
 
-# 🔐 Computer Security Exercises
+# Computer Security Exercises
 
 ##### These are the two laboratory exercises I have done in SRS - "Sigurnost računalnih sustava", or in english: "Computer Security". Third laboratory exercise was in imunes virtual machine so I couldn't put it here. They are written in Python.
 
 ---
 
-## 🧪 Lab 1: Secure Password Manager (`password_manager.py`)
+## Lab 1: Secure Password Manager (`password_manager.py`)
 
 This lab implements a **command-line password manager** that allows secure storage and retrieval of service passwords using symmetric encryption and HMAC-based integrity verification.
 
-### 🔐 Features
+### Features
 
 - Uses **AES-CBC** for encryption and **HMAC-SHA256** for integrity.
 - Keys derived from a master password using **PBKDF2** with salt.
@@ -17,7 +17,7 @@ This lab implements a **command-line password manager** that allows secure stora
 - Encrypts and pads sensitive data securely.
 - Validates data integrity using HMAC before decryption.
 
-### 🧾 Commands
+### Commands
 
 ```bash
 python password_manager.py <command> <master_password> [additional_arguments]
@@ -31,18 +31,18 @@ python password_manager.py get mySecretPass github.com
 ```
 
 ---
-## 🧪 Lab 2: User Management System (`login.py`, `usermgmt.py`)
+## Lab 2: User Management System (`login.py`, `usermgmt.py`)
 
 This lab builds a simple user authentication system that supports user creation, secure password storage, and login flow with forced password changes.
 
-### 🔐 Features
+### Features
 
 - Stores user passwords using **PBKDF2** with **SHA512** and random salt.
 - Tracks whether users need to change their password upon next login.
 - Ensures password complexity (≥8 characters).
 - Secure password input via getpass.
 
-### 🧾 Commands
+### Commands
 
 ```bash
 python labos.py <action> <username>
@@ -57,5 +57,3 @@ You can install pycryptodome with:
 ```bash
 pip install pycryptodome
 ```
-
-

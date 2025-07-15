@@ -1,4 +1,4 @@
-# 🧮 Computer Aided Analysis and Design – Python Projects
+# Computer Aided Analysis and Design – Python Projects
 
 This repository contains five structured Python exercises developed for the **Computer Aided Analysis and Design** course. The goal is to implement mathematical methods for optimization and differential equation solving using a custom-built matrix class.
 
@@ -6,9 +6,9 @@ All numerical methods are implemented manually without using external numerical 
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
-### ✅ Exercise 1: `matrica.py` – Custom Matrix Class
+### Exercise 1: `matrica.py` – Custom Matrix Class
 
 This module implements a lightweight matrix class (`Matrica`) to support operations like:
 
@@ -23,7 +23,7 @@ Also in first exercise we had to test all those operations which is located in (
 
 ---
 
-### 🔍 Exercise 2: `optimization_methods.py` – Unconstrained Optimization
+### Exercise 2: `optimization_methods.py` – Unconstrained Optimization
 
 This exercise focuses on **unimodal optimization** and **derivative-free methods**.
 
@@ -39,7 +39,7 @@ These algorithms are useful for optimizing black-box functions where derivatives
 
 ---
 
-### 🧠 Exercise 3: `gradient_methods.py` – Gradient-Based Optimization
+### Exercise 3: `gradient_methods.py` – Gradient-Based Optimization
 
 This task focuses on **gradient-based optimization** for multivariable functions.
 
@@ -53,7 +53,7 @@ Symbolic or numerical gradient and Hessian calculations are included as needed.
 
 ---
 
-### 🔲 Exercise 4: `box_algorithm.py` – Constrained Optimization (Box Method)
+### Exercise 4: `box_algorithm.py` – Constrained Optimization (Box Method)
 
 This exercise implements the **Box (complex) algorithm**, a method for constrained optimization.
 
@@ -67,7 +67,7 @@ Suitable for black-box objective functions with simple constraints.
 
 ---
 
-### 📈 Exercise 5: `differential_solvers.py` – Solving ODEs
+### Exercise 5: `differential_solvers.py` – Solving ODEs
 
 The final exercise solves **systems of ordinary differential equations (ODEs)** using **single-step** and **predictor-corrector** methods.
 
@@ -83,7 +83,7 @@ The final exercise solves **systems of ordinary differential equations (ODEs)** 
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.x
 - `numpy` (for analytical checks and helper functions)
