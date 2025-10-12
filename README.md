@@ -13,4 +13,6 @@
   > * **SEM** - "Seminar", english: "Seminar"
  >  * **SKR_JEZ** - "skriptni jezici", english: "Scripting Languages"
  >  * **SRS** - "Sigurnost računalnih sustava", english: "Computer Security"
+  > * **STRUCE** - "Strojno učenje", english: "Machine Learning"
   >  * **UUUI** - "Uvod u umjetnu inteligenciju", english: "Introduction to Artificial Intelligence"
+  
