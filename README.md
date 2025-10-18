@@ -4,6 +4,7 @@
   > * **APR** - "Analiza i projektiranje računalom", english: "Computer Aided Analysis and Design"
   > * **DOAS** - "Digitalna obrada i analiza slike", english: "Digital Image Processing and Analysis"
  >  * **FVPP** - "Formalna verifikacija programske potpore", english: "Formal Software Verification"
+  > * **NEUMRE** - "Neuronske mreže", english: "Neural Networks"
   > * **OBRINF** - "Obrada informacija", english: "Information Processing"
   > * **OOMA*** - "Odabrane optimizacijske metode i algoritmi", english: "Selected Optimization Methods and Algorithms"
   > * **OOUP** - "Oblikovni obrasci u programiranju", english: "Design Patterns"
@@ -15,4 +16,5 @@
  >  * **SRS** - "Sigurnost računalnih sustava", english: "Computer Security"
   > * **STRUCE** - "Strojno učenje", english: "Machine Learning"
   >  * **UUUI** - "Uvod u umjetnu inteligenciju", english: "Introduction to Artificial Intelligence"
+  
   
