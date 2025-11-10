@@ -6,6 +6,7 @@
  >  * **FVPP** - "Formalna verifikacija programske potpore", english: "Formal Software Verification"
   > * **NEUMRE** - "Neuronske mreže", english: "Neural Networks"
   > * **OBRINF** - "Obrada informacija", english: "Information Processing"
+  > **OER** - "Optimiranje Evolucijskim Računanjem", english: "Evolutionary Computing Optimization"
   > * **OOMA*** - "Odabrane optimizacijske metode i algoritmi", english: "Selected Optimization Methods and Algorithms"
   > * **OOUP** - "Oblikovni obrasci u programiranju", english: "Design Patterns"
  >  * **OPEIST** - "Operacijska istraživanja", english: "Operational research"
