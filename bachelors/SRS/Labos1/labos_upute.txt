@@ -1,0 +1,7 @@
+Sustav funkcionira tako da korisniku da sigurno pohranjivanje lozinka za adrese.
+baza se inicijalizira sa init, npr. 	./labos init master_password
+adrese se spremaju sa put, npr. 	./labos put master_password stranica password1
+adrese se dohvaćaju sa get, npr.	./labos get master_password stranica
+
+U svim slučajevima pogrešnog master_passworda ili nepostojeće stranice u bazi sustav javlja incorrect master_password tako da napadač ne zna ništa.
+Lozinke se zaštićuju pomoću AES algoritma u datoteku passwords.dat. Ključevi se izvode funkcijom PBKDF2 i za svaku lozinku se generira HMAC. Sigurnosni uvjeti - tajnost - treba glavna lozinka za dekriptiranje podataka, integritet je osigruan HMAC-om, a otpornost na napade osigurava PBDKF2.
