@@ -1,1 +1,0 @@
-In third laboratory exercise there was 1.2, 1.3 and 1.4 tasks, but only one of those needed to be solved. I've chosen 1.2 which is in Python. 
